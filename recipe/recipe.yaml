@@ -22,6 +22,7 @@ requirements:
     - gettext-tools
     - help2man
     - make
+    - sed
   host:
     - libtool
     - if: osx
